@@ -1,3 +1,8 @@
+/* 
+ * @Author - Harshit Srivastava
+ * Problem : Check whether given year is leap year or not.
+ */
+
 #include<stdio.h>
 main()
 {
